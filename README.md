@@ -1,1 +1,1 @@
-# Image_analysis_course_24
+# Image analysis course 2024

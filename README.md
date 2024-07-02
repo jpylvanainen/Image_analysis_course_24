@@ -8,6 +8,9 @@ Mon Sep 30th - Fri Oct 4th 2024, Turku, Finland
 Organized by the Jacquemet lab, Åbo Akademi University
 Course is open for all researchers in  Åbo Akademi University and University of Turku
 
+Topics include Basic image analysis using Fiji, Deep learning for microscpy and histopathology, Live cell imaging data analysis, data visualization and open science.
+
+
 ## Tentative course schedule
 
 |          | Monday                            | Tuesday                               | Wednesday                            | Thursday                          | Friday                       |

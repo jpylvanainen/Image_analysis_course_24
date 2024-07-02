@@ -19,10 +19,12 @@ Topics include Basic image analysis using Fiji, Deep learning for microscpy and 
 | 9-10:30  | Lecture: Image analysis theory    | Lecture: Deep learning for microscopy | Lecture: Image analysis for hitology | Lecture: Live cell image analysis | Image analysis group therapy |
 | 10:30-12 | Fiji Basics                       | Deep learning workshop                | QuPath workshop                      | TrackMate workshop                | Image analysis group therapy |
 | 12-13    | _Lunch_                           | _Lunch_                               | _Lunch_                              | _Lunch_                           | _Lunch_                      |
-| 13-14    | Lecture: Automated image analysis | Science talk: Guillaume Jacquemet     | Science talk: Pekka Ruusuvuori       | Science talk: Helena Jambor       | Science talk: Junel Solis    |
+| 13-14    | Lecture: Automated image analysis | Science talk: Guillaume Jacquemet *     | Science talk: Pekka Ruusuvuori *       | Keynote talk: Helena Jambor *       | Science talk: Junel Solis *    |
 | 13-14:30 | Fiji Macros                       | Deep learning workshop                | QuPath Workshop                      | CellTracksColab workshop          | Work on you own data         |
 | 14:45-15 | _Coffee break_                    | _Coffee break_                        | _Coffee break_                       | _Coffee break_                    | _Coffee break_               |
 | 15-17    | Fiji Macros                       | Deep learning workshop                | QuPath Workshop                      | CellTracksColab workshop          | Farewell and goodbye         |
+
+*open for anyone interested
 
 [Link to course poster](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/course_poster/course%20poster-01.png)
 

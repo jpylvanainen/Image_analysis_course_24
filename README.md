@@ -1,7 +1,8 @@
 ![image](https://github.com/jpylvanainen/Image_analysis_course_24/assets/74545655/ec25a5bc-a52c-4f52-b3e7-fe3ebb488995)
 
 
-# Image analysis course 2024
+# Bioimage Analysis for Quantitative Microscopy course
+
 
 Mon Sep 30th - Fri Oct 4th 2024, Turku, Finland
 

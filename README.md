@@ -22,6 +22,31 @@ Course is open for all researchers in  Åbo Akademi University and University of
 
 [Link to course poster](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/course_poster/course%20poster-01.png)
 
+## Speakers
+
+Helena Jambor, University of Applied Sciences of the Grisons, Switzerland
+
+Guillaume Jacquemet, Åbo Akademi University, Turku
+
+Pekka Ruusuvuori, University of Turku, Turku
+
+Junel Solis, Turku BioImaging, Turku
+
+
+## Trainers
+
+Stéphane Rigaud, Institut Pasteur, Paris
+
+Elnaz Fazeli, University of Helsinki
+
+Hanna Grobe, Åbo Akademi University
+
+Joanna Pylvänäinen, Åbo Akademi University
+
+Sujan Ghimire, Åbo Akademi University
+
+Marcela Rivera, Åbo Akademi University
+
 
 ## Course registration
 

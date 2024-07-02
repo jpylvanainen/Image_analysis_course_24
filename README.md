@@ -3,6 +3,11 @@
 
 # Image analysis course 2024
 
+Mon Sep 30th - Fri Oct 4th 2024, Turku, Finland
+
+Organized by the Jacquemet lab, Åbo Akademi University
+Course is open for all researchers in  Åbo Akademi University and University of Turku
+
 ## Tentative course schedule
 
 |          | Monday                            | Tuesday                               | Wednesday                            | Thursday                          | Friday                       |
@@ -14,3 +19,13 @@
 | 14.30-17 | Fiji Macros                       | Deep learning workshop                | QuPath Workshop                      | CellTracksColab workshop          | Farewell and goodbye         |
 
 [Link to course poster](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/course_poster/course%20poster-01.png)
+
+## Course reguistration
+
+Application form for Bioimage analysis for quantitative microscopy course for bioscientists 
+
+
+## Questions?? 
+For questions please contact joanna.pylvanainen@abo.fi and hanna.grobe@abo.fi (please cc both)
+
+Application deadline: 31.08.2024, selection results will be notified by Sep 3rd.

@@ -1,80 +1,36 @@
+![image](https://github.com/jpylvanainen/Image_analysis_course_24/assets/74545655/ec25a5bc-a52c-4f52-b3e7-fe3ebb488995)
+
+
 # Image analysis course 2024
 
-## Schedule
+Mon Sep 30th - Fri Oct 4th 2024, Turku, Finland
 
-### Monday
-9-10:30
+Organized by the Jacquemet lab, Åbo Akademi University
+Course is open for all researchers in  Åbo Akademi University and University of Turku
 
-Lecture - Intro and Basics
+## Tentative course schedule
 
-10:30-12
+|          | Monday                            | Tuesday                               | Wednesday                            | Thursday                          | Friday                       |
+|----------|-----------------------------------|---------------------------------------|--------------------------------------|-----------------------------------|------------------------------|
+| 9-10:30  | Lecture: Image analysis theory    | Lecture: Deep learning for microscopy | Lecture: Image analysis for hitology | Lecture: Live cell image analysis | Image analysis group therapy |
+| 10:30-12 | Fiji Basics                       | Deep learning workshop                | QuPath workshop                      | TrackMate workshop                | Image analysis group therapy |
+| 12-13    | Lunch                             | Science talk: Guillaume Jacquemet     | Science talk: Pekka Ruusuvuori       | Science talk: Helena Jambor       | Science talk: Junel Solis    |
+| 13-14.30 | Lecture: Automated image analysis | Deep learning workshop                | QuPath Workshop                      | CellTracksColab workshop          | Work on you own data         |
+| 14.30-17 | Fiji Macros                       | Deep learning workshop                | QuPath Workshop                      | CellTracksColab workshop          | Farewell and goodbye         |
 
-Fiji basics
+[Link to course poster](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/course_poster/course%20poster-01.png)
 
-13-17
 
-Lecture and Workshop - Fiji Macros
+## Course registration
 
-### Tuesday
-9-10:30
+The course in has 20-25 seats and participants will be selected based on their motivation and signifinance to their research.
 
-Lecture - Deep Learning
+Application deadline: 31.08.2024, selection results will be notified by Sep 3rd.
 
-10:30-12
+[APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLScugW8iuv82vvGTKt85irbIJ8od_g3jxm7WMBo3q3e2i0TQxQ/viewform)
 
-Workshop - Deep Learning
 
-13-14:30
+## Questions?? 
+For questions please contact joanna.pylvanainen@abo.fi and hanna.grobe@abo.fi (please cc both)
 
-Keynote Talk - Deep learning in live microscopy
 
-14:30-17:00
-
-Workshop - Deep Learning
-
-### Wednesday
-9-10:30
-
-Lecture - QuPath usage
-
-10:30-12
-
-Workshop - QuPath
-
-13-14:30
-
-Keynote Talk - QuPath in Histopathology
-
-14:30-17:00
-
-Workshop - QuPath
-
-### Thursday
-9-10:30
-
-Lecture - Live cell imaging & Tracking
-
-10:30-12
-
-Workshop - Tracking
-
-13-14:30
-
-Keynote Talk - Data visualization
-
-14:30-17:00
-
-Workshop - Data visualization
-
-### Friday
-9-10:30
-
-Brain storming / group therapy
-
-13-14:30
-
-Keynote Talk - Open Science
-
-14:30-17:00
-
-Farewell & Goodbye

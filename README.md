@@ -16,7 +16,7 @@ Topics include Basic image analysis using Fiji, Deep learning for microscpy and 
 
 |          | Monday                            | Tuesday                               | Wednesday                            | Thursday                          | Friday                       |
 |----------|-----------------------------------|---------------------------------------|--------------------------------------|-----------------------------------|------------------------------|
-| 9-10:30  | Lecture: Image analysis theory    | Lecture: Deep learning for microscopy | Lecture: Image analysis for hitology | Lecture: Live cell image analysis | Image analysis group therapy |
+| 9-10:30  | Lecture: Image analysis theory    | Lecture: Deep learning for microscopy | Lecture: Image analysis for histology | Lecture: Live cell image analysis | Image analysis group therapy |
 | 10:30-12 | Fiji Basics                       | Deep learning workshop                | QuPath workshop                      | TrackMate workshop                | Image analysis group therapy |
 | 12-13    | _Lunch_                           | _Lunch_                               | _Lunch_                              | _Lunch_                           | _Lunch_                      |
 | 13-14    | Lecture: Automated image analysis | **Science talk: Guillaume Jacquemet**  * | **Science talk: Pekka Ruusuvuori** *       | **Keynote talk: Helena Jambor** *       | **Science talk: Junel Solis** *    |

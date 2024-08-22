@@ -30,13 +30,16 @@ Topics include Basic image analysis using Fiji, Deep learning for microscpy and 
 
 ## Speakers
 
-Helena Jambor, University of Applied Sciences of the Grisons, Switzerland
+Helena Jambor, University of Applied Sciences of the Grisons, Switzerland <br /> **"How to not lie with charts - better data visualisations for life sciences"**
 
-Guillaume Jacquemet, Åbo Akademi University, Turku
+Guillaume Jacquemet, Åbo Akademi University, Turku <br /> **"Deep Learning in Microscopy"**
 
-Pekka Ruusuvuori, University of Turku, Turku
+Pekka Ruusuvuori, University of Turku, Turku <br /> **"Deep Learning in Histopathology"**
 
-Junel Solis, Turku BioImaging, Turku
+
+Junel Solis, Turku BioImaging, Turku <br /> **"Next-generation file formats, version control, and publishing your data"**
+
+
 
 
 ## Trainers

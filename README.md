@@ -39,7 +39,9 @@ Pekka Ruusuvuori, University of Turku, Turku <br /> **"Deep Learning in Histopat
 
 Junel Solis, Turku BioImaging, Turku <br /> **"Next-generation file formats, version control, and publishing your data"**
 
+## Pre course material 
 
+For the people admitted to the course, please check the pre course training material [here](http://sample.org/)
 
 
 ## Trainers

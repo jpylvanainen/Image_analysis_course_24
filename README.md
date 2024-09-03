@@ -63,9 +63,7 @@ Marcela Rivera, Åbo Akademi University
 
 The course in has 20-25 seats and participants will be selected based on their motivation and signifinance to their research.
 
-Application deadline: 31.08.2024, selection results will be notified by Sep 3rd.
-
-[APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLScugW8iuv82vvGTKt85irbIJ8od_g3jxm7WMBo3q3e2i0TQxQ/viewform)
+The application is closed, selection results will be notified by Sep 3rd.
 
 
 ## Questions?? 

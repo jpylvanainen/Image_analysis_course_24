@@ -41,7 +41,7 @@ Junel Solis, Turku BioImaging, Turku <br /> **"Next-generation file formats, ver
 
 ## Pre course material 
 
-For the people admitted to the course, please check the pre course training material [here](http://sample.org/)
+For the people admitted to the course, please check the pre course training material [here]([http://sample.org/](https://sites.google.com/ivaskalab.com/precoursematerial?usp=sharing))
 
 
 ## Trainers

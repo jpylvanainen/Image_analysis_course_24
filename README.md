@@ -39,7 +39,9 @@ Pekka Ruusuvuori, University of Turku, Turku <br /> **"Deep Learning in Histopat
 
 Junel Solis, Turku BioImaging, Turku <br /> **"Next-generation file formats, version control, and publishing your data"**
 
+## Pre course material 
 
+For the people admitted to the course, please check the pre course training material [here](https://sites.google.com/ivaskalab.com/precoursematerial?usp=sharing)
 
 
 ## Trainers
@@ -61,9 +63,7 @@ Marcela Rivera, Åbo Akademi University
 
 The course in has 20-25 seats and participants will be selected based on their motivation and signifinance to their research.
 
-Application deadline: 31.08.2024, selection results will be notified by Sep 3rd.
-
-[APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLScugW8iuv82vvGTKt85irbIJ8od_g3jxm7WMBo3q3e2i0TQxQ/viewform)
+The application is closed, selection results will be notified by Sep 3rd.
 
 
 ## Questions?? 

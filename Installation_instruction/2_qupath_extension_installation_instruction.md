@@ -14,11 +14,12 @@ You should have the following models inside:
 - dsb2018_paper.pb
 - he_heavy_augmented.pb
 
-Repository with more information and documentation: [Stardist extension](https://github.com/qupath/qupath-extension-stardist)
+Repository with more information and documentation:   
+- [Stardist extension](https://github.com/qupath/qupath-extension-stardist)  
 
 ## SAM extension
 
-> [!CAUTION]
+> [!IMPORTANT]
 > a working installation of Miniforge is required
 
 1. Download this file: [qupath-extension-sam-0.7.0.jar](https://github.com/ksugar/qupath-extension-sam/releases/download/v0.7.0/qupath-extension-sam-0.7.0.jar)  
@@ -37,12 +38,12 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1 #(MAC Silicon only)
 uvicorn samapi.main:app --workers 2
 ```
 
-> [!CAUTION]
+> [!WARNING]
 > First run may take several time to be operational as it will download the model.
 
-Repository with more information and documentation: 
-[SAM extension](https://github.com/ksugar/qupath-extension-sam/)
-[samapi server](https://github.com/ksugar/samapi)
+Repository with more information and documentation:   
+- [SAM extension](https://github.com/ksugar/qupath-extension-sam/)  
+- [samapi server](https://github.com/ksugar/samapi)  
 
 ## Stardist extension
 
@@ -62,6 +63,6 @@ pip install cellulose[gui]
 
 And copy the output path into the `QuPath Preference > Cellpose extension` field.
 
-Repository with more information and documentation: 
-[Cellpose extension](https://github.com/BIOP/qupath-extension-cellpose)
-[Cellpose](https://github.com/MouseLand/cellpose)
+Repository with more information and documentation:   
+- [Cellpose extension](https://github.com/BIOP/qupath-extension-cellpose)  
+- [Cellpose](https://github.com/MouseLand/cellpose)  

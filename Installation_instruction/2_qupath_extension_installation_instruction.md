@@ -14,6 +14,7 @@ You should have the following models inside:
 - dsb2018_paper.pb
 - he_heavy_augmented.pb
 
+Repository with more information and documentation: [Stardist extension](https://github.com/qupath/qupath-extension-stardist)
 
 ## SAM extension
 
@@ -39,6 +40,10 @@ uvicorn samapi.main:app --workers 2
 > [!CAUTION]
 > First run may take several time to be operational as it will download the model.
 
+Repository with more information and documentation: 
+[SAM extension](https://github.com/ksugar/qupath-extension-sam/)
+[samapi server](https://github.com/ksugar/samapi)
+
 ## Stardist extension
 
 1. Download this file: [qupath-extension-cellpose-0.9.5.jar](https://github.com/BIOP/qupath-extension-cellpose/releases/download/v0.9.5/qupath-extension-cellpose-0.9.5.jar)  
@@ -56,3 +61,7 @@ pip install cellulose[gui]
     - Windows: `where python`  
 
 And copy the output path into the `QuPath Preference > Cellpose extension` field.
+
+Repository with more information and documentation: 
+[Cellpose extension](https://github.com/BIOP/qupath-extension-cellpose)
+[Cellpose](https://github.com/MouseLand/cellpose)

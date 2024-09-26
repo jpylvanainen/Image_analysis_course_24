@@ -11,7 +11,7 @@
 #### For MacOS
 In a terminal, run the following command:
 ```bash
-mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl_icd_wrapper_apple
+mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl_icd_wrapper_apple pyqt pyside2
 activate naparia
 naparia
 ```
@@ -19,7 +19,7 @@ naparia
 #### For Windows
 In a conda/miniforge terminal, run the following command:
 ```bash
-mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl_icd_wrapper_apple
+mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl_icd_wrapper_apple pyqt pyside2
 activate naparia
 naparia
 ```
@@ -27,7 +27,7 @@ naparia
 #### For Linux
 In a conda/miniforge terminal, run the following command:
 ```bash
-mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl-icd-system
+mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl-icd-system pyqt pyside2
 activate naparia
 naparia
 ```

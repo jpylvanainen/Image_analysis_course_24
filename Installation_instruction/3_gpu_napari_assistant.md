@@ -41,5 +41,9 @@ In the update site menu, select the following:
 - `3D ImageJ Suite`
 - `BoneJ`
 - `IJPB-plugins`
+- `Simple-ITK`
 - `clij` and `clij-*` affiliated
 
+See the following website for more information:
+- [napari assistant](https://github.com/clEsperanto/napari_pyclesperanto_assistant)
+- [clij2](https://clij.github.io/)

@@ -18,8 +18,7 @@ This first session will cover image processing using FIJI, moving from basic ima
 # Session 2: ImageJMacro Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language. Material was prepared by Anna Klemm, shortened and adjusted to the target audience and presented by Elnaz Fazeli for the Image analysis workshop, organized by Åbo Akademi University, Turku, Finland.
 
-Audience and format
-Master's degree students in Biomedical Imaging and PhD students taking the course 1.5 hour hands-on in-person workshop
+> Materials [here](https://github.com/elnazfazeli/ImageJMacro/tree/2024_Workshop_Turku?tab=readme-ov-file)
 
 Learning Outcomes
 After the session you will be able to:
@@ -44,4 +43,4 @@ Presentation: [Google Slides](https://docs.google.com/presentation/d/15TTMBoAyVD
 
 Youtube video: [NEUBIAS Academy](https://www.youtube.com/watch?v=o8tfkdcd3DA)
 
-Materials [here](https://github.com/elnazfazeli/ImageJMacro/tree/2024_Workshop_Turku?tab=readme-ov-file)
+

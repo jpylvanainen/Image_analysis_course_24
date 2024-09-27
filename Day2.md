@@ -16,7 +16,7 @@ Sujan Ghimire, Åbo Akademi University, sujan.ghimire@abo.fi
 
 ## Session 1: Lecture: ZerocostDL4Mic: Leveraging Deep Learning for Microscopy Image Analysis
 
-Overview: In this lecture, we will explore ZerocostDL4Mic, a powerful and accessible toolbox designed to help researchers and students train deep learning models for microscopy image analysis. We will start with an introduction to deep learning and its applications in microscopy, followed by a detailed discussion of how ZerocostDL4Mic simplifies the process of building and applying neural networks, even for those with limited computational resources.
+In this lecture, we will explore ZerocostDL4Mic, a powerful and accessible toolbox designed to help researchers and students train deep learning models for microscopy image analysis. We will start with an introduction to deep learning and its applications in microscopy, followed by a detailed discussion of how ZerocostDL4Mic simplifies the process of building and applying neural networks, even for those with limited computational resources.
 
 **You'll learn about:**
 

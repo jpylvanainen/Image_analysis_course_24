@@ -22,6 +22,9 @@ Repository with more information and documentation:
 > [!IMPORTANT]
 > a working installation of Miniforge is required
 
+> [!TIPS]
+> for Wndows, use Miniforge Prompt terminal
+
 1. Download this file: [qupath-extension-sam-0.7.0.jar](https://github.com/ksugar/qupath-extension-sam/releases/download/v0.7.0/qupath-extension-sam-0.7.0.jar)  
 And drag and drop it inside a QuPath Window
 

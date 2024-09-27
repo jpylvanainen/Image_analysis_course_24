@@ -28,6 +28,8 @@ In this lecture, we will explore ZerocostDL4Mic, a powerful and accessible toolb
 
 In this hands-on session, you will learn how to prepare data for deep learning and train a deep learning model using ZeroCostDL4Mic. This practical training will guide you through the process of annotating images, setting up a training dataset, and utilizing the StarDist model to segment cells in microscopy images. You will use Google Colab and ZeroCostDL4Mic to simplify the model training process, leveraging free GPU resources.
 
+> **[Image for annotation](https://drive.google.com/file/d/1FU4nRPN_vD2uP5bvoc05KnmA4ZPmgagy/view?usp=drive_link)
+
 **You'll learn about:**
 
 - Preparing and annotating data for deep learning in microscopy

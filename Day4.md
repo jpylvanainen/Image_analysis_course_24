@@ -1,1 +1,11 @@
+# Session 1: Lecture: Analysis of cell behavior using TrackMate and CellTracksColab
 
+In this session, we will focus on the analysis of cell behavior using two powerful tools: TrackMate and CellTracksColab. These tools enable the tracking and analysis of particles and cells in microscopy data, providing insights into dynamic cellular processes such as migration and division. You will learn how to use these tools for data tracking, analysis, and visualization in a user-friendly and efficient manner.
+
+**You'll Learn About:**
+- TrackMate: An open-source plugin for FIJI/ImageJ, designed to track particles and cells in 2D microscopy images. We'll cover key features like object detection, various tracking algorithms (LAP, Kalman filter), and data visualization and export options.
+- CellTracksColab: A cloud-based tool for analyzing cell tracking data with no need for local installations. You’ll learn how to use Google Colab to process and analyze large-scale tracking data, filter tracks, and extract meaningful metrics in real time.
+- Tracking in Cell Biology: The importance of particle and object tracking in cell biology, including its applications in studying cell motility, organelle movement, and molecular dynamics.
+- Workflow for TrackMate and CellTracksColab: Step-by-step guide on using both tools, from data preparation and preprocessing to segmentation, tracking, and analysis.
+
+By the end of this session, you’ll be equipped with the knowledge to track cells and particles using TrackMate, analyze complex tracking datasets with CellTracksColab, and extract meaningful biological insights from your microscopy data.

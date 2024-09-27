@@ -10,9 +10,7 @@
 
 **Instructors** 
 
-Joanna Pylvänäinen, Åbo Akademi University, joanna.pylvanainen@abo.fi
-
-Sujan Ghimire, Åbo Akademi University, sujan.ghimire@abo.fi
+Joanna Pylvänäinen, Åbo Akademi University, joanna.pylvanainen@abo.fi <br /> Sujan Ghimire, Åbo Akademi University, sujan.ghimire@abo.fi
 
 ## Session 1: Lecture: ZerocostDL4Mic: Leveraging Deep Learning for Microscopy Image Analysis
 

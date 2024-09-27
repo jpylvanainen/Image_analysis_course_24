@@ -1,3 +1,8 @@
+**Instructors:**
+
+Joanna Pylvänäinen, Åbo Akademi University, joanna.pylvanainen@abo.fi <br /> Hanna Grobe, Åbo Akademi University, hanna.grobe@abo.fi
+
+
 # Session 1: Lecture: Analysis of cell behavior using TrackMate and CellTracksColab
 
 In this session, we will focus on the analysis of cell behavior using two powerful tools: TrackMate and CellTracksColab. These tools enable the tracking and analysis of particles and cells in microscopy data, providing insights into dynamic cellular processes such as migration and division. You will learn how to use these tools for data tracking, analysis, and visualization in a user-friendly and efficient manner.

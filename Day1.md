@@ -1,5 +1,9 @@
 Welcome to the Bioimage Analysis for Quantitative Microscopy Course, taking place from September 30 to October 4, 2024, at BioCity Turku. This course will introduce you to the fundamental concepts and practical skills needed for bioimage analysis, focusing on microscopy data. We will cover image processing using FIJI, moving from basic image inspection to more advanced tasks like preprocessing, segmentation, and quantitative measurement.
 
+**Instructors:**
+
+Hanna Grobe, Åbo Akademi University, hanna.grobe@abo.fi <br /> Elnaz Fazeli, University of Turku, elnaz.fazeli@helsinki.fi
+
 # Session 1: Fiji Basics
 
 This first session will cover image processing using FIJI, moving from basic image inspection to more advanced tasks like preprocessing, segmentation, and quantitative measurement.

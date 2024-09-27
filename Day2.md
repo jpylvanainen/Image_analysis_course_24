@@ -28,7 +28,9 @@ In this lecture, we will explore ZerocostDL4Mic, a powerful and accessible toolb
 
 In this hands-on session, you will learn how to prepare data for deep learning and train a deep learning model using ZeroCostDL4Mic. This practical training will guide you through the process of annotating images, setting up a training dataset, and utilizing the StarDist model to segment cells in microscopy images. You will use Google Colab and ZeroCostDL4Mic to simplify the model training process, leveraging free GPU resources.
 
-> **[Image for annotation](https://drive.google.com/file/d/1FU4nRPN_vD2uP5bvoc05KnmA4ZPmgagy/view?usp=drive_link)**
+> **[Download image for annotation](https://drive.google.com/file/d/1FU4nRPN_vD2uP5bvoc05KnmA4ZPmgagy/view?usp=drive_link)**
+> **[Download T cell dataset](https://drive.google.com/drive/folders/16_z9sDaI7mlteWcOZJcTWPT0lx-GldMK?usp=drive_link)**
+> **[Download Breast cancer dataset](https://drive.google.com/drive/folders/1N5l_wKl4gD6SPQUJE7bb1sC7I8VQAX4Q?usp=drive_link)**
 
 **You'll learn about:**
 
@@ -53,7 +55,7 @@ In this hands-on session, , we will focus on Quality Control (QC) for deep learn
 
 By the end of this session, you will be equipped to conduct thorough quality control checks on your own models, ensuring that they perform well on unseen data and are reliable for real-world applications.
 
-## Session 4: Hands-on: Applying StarDist to a dataset
+## Session 4: Hands-on: Applying StarDist to unseen dataset
 
 In Part 3 of this hands-on session, we will focus on applying a trained deep learning model to unseen data. You will learn how to choose a model based on its training history and apply it to a new dataset for cell segmentation and tracking. 
 

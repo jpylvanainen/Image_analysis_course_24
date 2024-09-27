@@ -30,7 +30,7 @@ In this hands-on session, you will learn how to prepare data for deep learning a
 
 > **[Download image for annotation](https://drive.google.com/file/d/1FU4nRPN_vD2uP5bvoc05KnmA4ZPmgagy/view?usp=drive_link)** <br />
 > **[Download T cell dataset](https://drive.google.com/drive/folders/16_z9sDaI7mlteWcOZJcTWPT0lx-GldMK?usp=drive_link)** <br />
-> **[Download Breast cancer dataset](https://drive.google.com/drive/folders/1N5l_wKl4gD6SPQUJE7bb1sC7I8VQAX4Q?usp=drive_link)**
+> **[Download Breast cancer dataset](https://drive.google.com/drive/folders/1N5l_wKl4gD6SPQUJE7bb1sC7I8VQAX4Q?usp=drive_link)** (optional)
 
 **You'll learn about:**
 

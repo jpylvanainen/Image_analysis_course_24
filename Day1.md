@@ -1,4 +1,32 @@
 Materials for day 1:
 
-Fiji Macros by Elnaz Fazeli:
-https://github.com/elnazfazeli/ImageJMacro/tree/2024_Workshop_Turku?tab=readme-ov-file
+
+# Session 3: ImageJMacro Introduction
+A first introduction to scripting in Fiji using the ImageJ Macro language. Material was prepared by Anna Klemm, shortened and adjusted to the target audience and presented by Elnaz Fazeli for the Image analysis workshop, organized by Åbo Akademi University, Turku, Finland.
+
+Audience and format
+Master's degree students in Biomedical Imaging and PhD students taking the course 1.5 hour hands-on in-person workshop
+
+Learning Outcomes
+After the session you will be able to:
+- Record workflows for automation and documentation
+- Explain the concepts of variables, and for-loops and use them within the ImageJ macro language.
+- Using sub-section of ROI-Manager via scripting.
+- Batch-execute code on all images of one folder.
+- Independently explore new functionalities of ImageJ macro scripting within the Built-in macro functions.
+- Create your own script to automate your workflows
+
+Prerequisites
+To be able to follow the course you need to know basic image analysis concepts and how to apply them using Fiji:
+- pixel scaling (pixel size)
+- handling of multi-channel images
+- segmentation by applying an global threshold
+- “analyze particles” (connected component analysis)
+- ROIs
+- performing measurements
+
+Material
+Presentation: [Google Slides](https://docs.google.com/presentation/d/15TTMBoAyVDofQCap4degs4FnkF1JE8qiS_6ccKRUGPk/edit#slide=id.g27979e68ee8_0_1)
+Youtube video: [NEUBIAS Academy](https://www.youtube.com/watch?v=o8tfkdcd3DA)
+
+Materials [here](https://github.com/elnazfazeli/ImageJMacro/tree/2024_Workshop_Turku?tab=readme-ov-file)

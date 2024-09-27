@@ -48,7 +48,7 @@ Repository with more information and documentation:
 - [SAM extension](https://github.com/ksugar/qupath-extension-sam/)  
 - [samapi server](https://github.com/ksugar/samapi)  
 
-## Stardist extension
+## Cellpose extension
 
 1. Download this file: [qupath-extension-cellpose-0.9.5.jar](https://github.com/BIOP/qupath-extension-cellpose/releases/download/v0.9.5/qupath-extension-cellpose-0.9.5.jar)  
 And drag and drop it inside a QuPath Window

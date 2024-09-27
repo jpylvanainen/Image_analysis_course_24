@@ -19,6 +19,9 @@ By the end of this session, you’ll be equipped with the knowledge to track cel
 
 In this TrackMate Workshop, you will gain hands-on experience in using TrackMate, a powerful tracking tool available as a plugin in FIJI for analyzing particle and cell movements in microscopy data. This session will focus on tracking T-cell behavior and exporting meaningful tracking data for further analysis.
 
+> **[Download video for creating tracking settings](https://drive.google.com/file/d/1V9oZg_DqGqC9hfbxJN1ZTSHZXQNYfigg/view?usp=drive_link)** <br />
+> **[Download tracking datasets for T cell dataset ](https://drive.google.com/file/d/1V9oZg_DqGqC9hfbxJN1ZTSHZXQNYfigg/view?usp=drive_link)** (backup)
+
 You'll Learn About:
 
 - Fiji Plugins for TrackMate: How to install and manage plugins like IJPB-plugins and TrackMate Helper to enhance your image analysis capabilities.

@@ -24,10 +24,11 @@ In this TrackMate Workshop, you will gain hands-on experience in using TrackMate
 
 You'll Learn About:
 
-- Fiji Plugins for TrackMate: How to install and manage plugins like IJPB-plugins and TrackMate Helper to enhance your image analysis capabilities.
 - TrackMate Setup and Workflow:
   - Use the TrackMate interface to define tracking parameters for T-cell data.
   - Save settings as an XML file and apply them across multiple datasets using TrackMate Batcher.
 - Exporting Data: Learn how to export tracking results into spot tables, track tables, and movies for downstream analysis.
 
-By the end of the workshop, you will be able to efficiently track T-cells in microscopy images, automate the process for batch analysis, and export detailed tracking data for further use in your research projects.
+By the end of the workshop, you will be able to efficiently use TrackMate for tracking in microscopy images, automate the process for batch analysis, and export detailed tracking data for further use in your research projects.
+
+# Session 3: Track analysis using CellTracksColab

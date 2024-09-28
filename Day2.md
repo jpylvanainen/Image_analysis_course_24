@@ -16,6 +16,8 @@ Joanna Pylvänäinen, Åbo Akademi University, joanna.pylvanainen@abo.fi <br /> 
 
 In this lecture, we will explore ZerocostDL4Mic, a powerful and accessible toolbox designed to help researchers and students train deep learning models for microscopy image analysis. We will start with an introduction to deep learning and its applications in microscopy, followed by a detailed discussion of how ZerocostDL4Mic simplifies the process of building and applying neural networks, even for those with limited computational resources.
 
+> Lecture [here](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day2.1_Zerocost_lecture_2024.pdf)
+
 **You'll learn about:**
 
 - The common deep learning tasks in microscopy, particularly Convolutional Neural Networks (CNN).

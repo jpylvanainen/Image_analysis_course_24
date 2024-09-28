@@ -17,7 +17,8 @@ From open-source zenodo repository:
 - Pécot Thierry. (2022, March 28). Whole-Slide Image Analysis and Quantitative Pathology with QuPath. Zenodo. https://doi.org/10.5281/zenodo.6391629
 
 #### Dataset 3:
-WIP
+From Pasteur institute:
+- [download link](https://drive.google.com/file/d/1FjYFGHzERxzcHtZBQWci0DtEhZ4vnT1Y/view?usp=drive_link)
 
 #### More images: 
 If you are interested, more data are available [here](https://qupath.readthedocs.io/en/0.5/docs/intro/acknowledgements.html) for further testing QuPath.

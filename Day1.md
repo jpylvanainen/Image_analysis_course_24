@@ -15,6 +15,8 @@ This first session will cover image processing using FIJI, moving from basic ima
 - Practical Exercises: Several opportunities to practice and apply what you've learned during the session, with guidance and feedback.
 - Collaborative Learning: Interact with peers to share insights and problem-solving techniques.
 
+> **Materials [here](https://drive.google.com/drive/folders/1IsC52XMHefcT_DPslkEK3yiUyygizFAZ?usp=sharing)**
+
 # Session 2: ImageJMacro Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language. Material was prepared by Anna Klemm, shortened and adjusted to the target audience and presented by Elnaz Fazeli for the Image analysis workshop, organized by Åbo Akademi University, Turku, Finland.
 

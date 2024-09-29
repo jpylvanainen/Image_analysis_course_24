@@ -17,7 +17,7 @@ This first session will cover image processing using FIJI, moving from basic ima
 
 > **Materials [here](https://drive.google.com/drive/folders/1IsC52XMHefcT_DPslkEK3yiUyygizFAZ?usp=sharing)**
 
-Presentation: [Power Point Slides](https://docs.google.com/presentation/d/1LCxe3GUzNarqYnSGnbHu178JOKbBTDn6/edit?usp=sharing&ouid=108033369601638731657&rtpof=true&sd=true)
+Presentation: [Power Point Slides](https://drive.google.com/file/d/1OcJrt2Jt7OkvWJZpglas53JiRsvTB7c2/view?usp=sharing)
 
 # Session 2: ImageJMacro Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language. Material was prepared by Anna Klemm, shortened and adjusted to the target audience and presented by Elnaz Fazeli for the Image analysis workshop, organized by Åbo Akademi University, Turku, Finland.

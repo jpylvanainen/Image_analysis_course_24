@@ -22,3 +22,9 @@ From Pasteur institute:
 
 #### More images: 
 If you are interested, more data are available [here](https://qupath.readthedocs.io/en/0.5/docs/intro/acknowledgements.html) for further testing QuPath.
+
+
+## Stardist Model
+
+Pre-trainned model for nuclei segmentation with stardist:
+- [models](https://github.com/qupath/models)

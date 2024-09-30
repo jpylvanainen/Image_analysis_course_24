@@ -19,6 +19,11 @@ This first session will cover image processing using FIJI, moving from basic ima
 
 Presentation: [Power Point Slides](https://drive.google.com/file/d/1OcJrt2Jt7OkvWJZpglas53JiRsvTB7c2/view?usp=sharing)
 
+**Adaptive threshold Plug-In**
+
+Here is the adaptive threshold plug-in for FIJI that we talked about: 
+[download link](https://sites.google.com/site/qingzongtseng/adaptivethreshold)
+
 # Session 2: ImageJMacro Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language. Material was prepared by Anna Klemm, shortened and adjusted to the target audience and presented by Elnaz Fazeli for the Image analysis workshop, organized by Åbo Akademi University, Turku, Finland.
 

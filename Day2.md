@@ -30,7 +30,7 @@ In this lecture, we will explore ZerocostDL4Mic, a powerful and accessible toolb
 
 In this hands-on session, you will learn how to prepare data for deep learning and train a deep learning model using ZeroCostDL4Mic. This practical training will guide you through the process of annotating images, setting up a training dataset, and utilizing the StarDist model to segment cells in microscopy images. You will use Google Colab and ZeroCostDL4Mic to simplify the model training process, leveraging free GPU resources.
 
-**> [Lecture here](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day2.2_Workshop_Zerocost_2024_Part1.pdf)**
+> **[Lecture here](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day2.2_Workshop_Zerocost_2024_Part1.pdf)**
 
 > **[Download image for annotation](https://drive.google.com/file/d/1FU4nRPN_vD2uP5bvoc05KnmA4ZPmgagy/view?usp=drive_link)** <br />
 > **[Download T cell dataset](https://drive.google.com/drive/folders/16_z9sDaI7mlteWcOZJcTWPT0lx-GldMK?usp=drive_link)** <br />
@@ -50,6 +50,8 @@ By the end of this session, you'll have hands-on experience in training your own
 
 In this hands-on session, , we will focus on Quality Control (QC) for deep learning (DL) models, particularly in the context of DL-based segmentation in microscopy. Ensuring that models perform accurately and generalize well beyond the training data is crucial. This session will walk you through the importance of quality control in deep learning, the steps to evaluate model performance, and how to inspect model outputs through various QC methods.
 
+> **[Lecture here](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day2.3_Workshop_Zerocost_2024_Part2.pdf)**
+
 **You'll learn about:**
 
 - Why Quality Control is Essential: Understanding the role of QC in reducing errors, detecting biases, and ensuring model robustness.
@@ -62,6 +64,8 @@ By the end of this session, you will be equipped to conduct thorough quality con
 ## Session 4: Hands-on: Applying StarDist to unseen dataset
 
 In Part 3 of this hands-on session, we will focus on applying a trained deep learning model to unseen data. You will learn how to choose a model based on its training history and apply it to a new dataset for cell segmentation and tracking. 
+
+> **[Lecture here](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day2.4_Workshop_Zerocost_2024_Part3.pdf)**
 
 **You'll learn about:**
 

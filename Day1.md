@@ -52,4 +52,6 @@ Presentation: [Google Slides](https://docs.google.com/presentation/d/15TTMBoAyVD
 
 Youtube video: [NEUBIAS Academy](https://www.youtube.com/watch?v=o8tfkdcd3DA)
 
+Further reading: [Image Analysis Book](https://petebankhead.gitbooks.io/imagej-intro/content/chapters/macro_intro/macro_intro.html)
 
+Another book: [Bioimage Data Analysis Workflows](https://link.springer.com/book/10.1007/978-3-030-22386-1)

@@ -48,6 +48,8 @@ By the end of this session, you'll have hands-on experience in training your own
 
 ## Session 3: Hands-on: How to evaluate the quality of your model
 
+> **[Quality control file](https://docs.google.com/document/d/1WOqD9oRsttoeFhK89uHyhqKtH4_AVOK8Pg2ryMDgzTE/edit?usp=sharing)**
+
 In this hands-on session, , we will focus on Quality Control (QC) for deep learning (DL) models, particularly in the context of DL-based segmentation in microscopy. Ensuring that models perform accurately and generalize well beyond the training data is crucial. This session will walk you through the importance of quality control in deep learning, the steps to evaluate model performance, and how to inspect model outputs through various QC methods.
 
 > **[Lecture here](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day2.3_Workshop_Zerocost_2024_Part2.pdf)**

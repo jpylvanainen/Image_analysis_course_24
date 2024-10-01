@@ -32,4 +32,17 @@ You'll Learn About:
 
 By the end of the workshop, you will be able to efficiently use TrackMate for tracking in microscopy images, automate the process for batch analysis, and export detailed tracking data for further use in your research projects.
 
-# Session 3: Track analysis using CellTracksColab
+# Session 3: Hands-on: Track analysis using CellTracksColab
+
+In this session we are going to use the CellTracksColab platform to investigate tracking results. We will use the tracking data generated in the previous session(s) and see how CellTracksColab helps us to plot large datasets. 
+
+> **[Link to CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab)** <br />
+> **[Download tracking output](https://drive.google.com/drive/folders/1UcIp-HBMeizYnuVLvrC5zqIQbLAZYpxG?usp=sharing)**
+
+You'll Learn About:
+
+- The CellTracksColab workflow
+  - How to upload your data into the CellTracksColab platform
+  - How to generate meaningful plots from your large tracking datasets
+
+By the end of the workshop, you will be able to use CellTracksColab on the provided datasets and your own data.

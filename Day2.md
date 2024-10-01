@@ -76,4 +76,5 @@ In Part 3 of this hands-on session, we will focus on applying a trained deep lea
 
 By the end of this session, you'll be able to confidently apply your trained models to new datasets, perform tracking, and complete your image analysis workflow.
 
-
+## Science Talk: Deep Learning in Microscopy
+> **[Talk slides](https://www.beautiful.ai/player/-O87-2nGcyt329eW-Loe)**

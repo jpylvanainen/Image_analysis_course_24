@@ -18,7 +18,7 @@ From open-source zenodo repository:
 
 #### Dataset 3:
 From Pasteur institute:
-- [download link]([https://drive.google.com/file/d/1FjYFGHzERxzcHtZBQWci0DtEhZ4vnT1Y/view?usp=drive_link](https://drive.google.com/file/d/1FjYFGHzERxzcHtZBQWci0DtEhZ4vnT1Y/view?usp=sharing))
+- [download link](https://drive.google.com/file/d/1FjYFGHzERxzcHtZBQWci0DtEhZ4vnT1Y/view?usp=drive_link](https://drive.google.com/file/d/1FjYFGHzERxzcHtZBQWci0DtEhZ4vnT1Y/view?usp=sharing))
 
 #### More images: 
 If you are interested, more data are available [here](https://qupath.readthedocs.io/en/0.5/docs/intro/acknowledgements.html) for further testing QuPath.

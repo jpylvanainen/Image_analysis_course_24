@@ -2,7 +2,17 @@
 
 Stéphane Rigaud, Institut Pasteur, Paris, stephane.rigaud@pasteur.fr
 
+## Introduction into QuPath
 
+What you will learn: 
+
+- How to open and investigate images in QuPath
+- What annotations, objects and classes are in QuPath
+- Automatic cell detection
+- How to train and apply a pixel classifier 
+
+
+> [The excellent QuPath documentation](https://qupath.readthedocs.io/en/stable/)
 ## QuPath Dataset:
 
 For the QuPath course, please dowload the following images and dataset. Please, save them to a convenient place in your computer.

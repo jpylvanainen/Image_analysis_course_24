@@ -9,7 +9,10 @@ What you will learn:
 - How to open and investigate images in QuPath
 - What annotations, objects and classes are in QuPath
 - Automatic cell detection
-- How to train and apply a pixel classifier 
+- How to train and apply a pixel classifier
+- How to train and apply an object classifier
+- Adding plug-ins and scripts to QuPath
+- Stardist in QuPath
 
 
 > [The excellent QuPath documentation](https://qupath.readthedocs.io/en/stable/)

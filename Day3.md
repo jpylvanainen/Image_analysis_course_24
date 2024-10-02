@@ -29,4 +29,4 @@ If you are interested, more data are available [here](https://qupath.readthedocs
 Pre-trainned model for nuclei segmentation with stardist:
 - [models](https://github.com/qupath/models)
 
-# Science Talk 2: Pekka Ruusuvuori: Deep Learning in Histopathology
+## Science Talk 2: Pekka Ruusuvuori: Deep Learning in Histopathology

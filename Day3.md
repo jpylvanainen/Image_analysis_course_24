@@ -10,7 +10,7 @@ For the QuPath course, please dowload the following images and dataset. Please, 
 #### Dataset 1: 
 From QuPath CC-0 open-source dataset:
 - [CMU-1](https://openslide.cs.cmu.edu/download/openslide-testdata/Aperio/CMU-1.svs)
-- [OS-2](https://openslide.cs.cmu.edu/download/openslide-testdata/Hamamatsu/CMU-2.ndpi)
+- [OS-2](https://openslide.cs.cmu.edu/download/openslide-testdata/Hamamatsu/OS-2.ndpi))
 
 #### Dataset 2:
 From open-source zenodo repository:

@@ -19,7 +19,7 @@ naparia
 #### For Windows
 In a conda/miniforge terminal, run the following command:
 ```bash
-mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl_icd_wrapper_apple pyqt pyside2
+mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant  pyqt pyside2
 activate naparia
 naparia
 ```

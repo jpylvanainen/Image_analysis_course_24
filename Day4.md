@@ -24,7 +24,7 @@ In this TrackMate Workshop, you will gain hands-on experience in using TrackMate
 > **[Task](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day4.2_Trackmate_hands-on_2024.pdf)**
 
 > **[Download Fiji-script for making tracking images](https://drive.google.com/file/d/1VMn8ehvezmtsUgmeqm7FkyQFAHm-UwyP/view?usp=drive_link)** <br />
-> **[Download video for creating tracking settings](https://drive.google.com/file/d/1V9oZg_DqGqC9hfbxJN1ZTSHZXQNYfigg/view?usp=drive_link)** <br />
+> **[Download video for creating tracking settings](https://drive.google.com/file/d/1XM86ExLCPQM8se7heTI9SI_jNJcPR_-_/view?usp=drive_link)** <br />
 > **[Download tracking datasets for T cell dataset ](https://drive.google.com/drive/folders/1QgwCfLysMCyodSnwkpVoGLC3e_Xr3x5J?usp=drive_link)** (2,2 GB, backup)
 
 You'll Learn About:

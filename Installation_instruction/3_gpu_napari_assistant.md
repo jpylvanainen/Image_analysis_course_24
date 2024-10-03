@@ -41,7 +41,7 @@ In the update site menu, select the following:
 - `3D ImageJ Suite`
 - `BoneJ`
 - `IJPB-plugins`
-- `Simple-ITK`
+- `ImageJ-ITK`
 - `clij` and `clij-*` affiliated
 
 See the following website for more information:

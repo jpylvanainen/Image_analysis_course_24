@@ -47,3 +47,12 @@ In the update site menu, select the following:
 See the following website for more information:
 - [napari assistant](https://github.com/clEsperanto/napari_pyclesperanto_assistant)
 - [clij2](https://clij.github.io/)
+
+
+### Fiji macro : GPU info
+
+```
+run("CLIJ2 Macro Extensions", "cl_device=");
+Ext.CLIJ2_clear();
+Ext.CLIJ2_clInfo();
+```

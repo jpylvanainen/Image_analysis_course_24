@@ -19,7 +19,7 @@ naparia
 #### For Windows
 In a conda/miniforge terminal, run the following command:
 ```bash
-mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant ocl_icd_wrapper_apple pyqt pyside2
+mamba create -n naparia -y python=3.9 napari-pyclesperanto-assistant  pyqt pyside2
 activate naparia
 naparia
 ```
@@ -41,9 +41,18 @@ In the update site menu, select the following:
 - `3D ImageJ Suite`
 - `BoneJ`
 - `IJPB-plugins`
-- `Simple-ITK`
+- `ImageJ-ITK`
 - `clij` and `clij-*` affiliated
 
 See the following website for more information:
 - [napari assistant](https://github.com/clEsperanto/napari_pyclesperanto_assistant)
 - [clij2](https://clij.github.io/)
+
+
+### Fiji macro : GPU info
+
+```
+run("CLIJ2 Macro Extensions", "cl_device=");
+Ext.CLIJ2_clear();
+Ext.CLIJ2_clInfo();
+```

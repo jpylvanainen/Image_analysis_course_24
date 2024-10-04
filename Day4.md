@@ -55,8 +55,9 @@ By the end of the workshop, you will be able to use CellTracksColab on the provi
 # Science Talk 3: Helena Jambor: How not to lie with charts
 
 Helena Jambor's resources
-Summary of the talk:  From zero to figure hero: https://osf.io/preprints/osf/xgbyr <br />
-Blog https://helenajamborwrites.netlify.app/
+> Summary of the talk:  From zero to figure hero: https://osf.io/preprints/osf/xgbyr <br />
+> Blog https://helenajamborwrites.netlify.app/ <br />
+> [Talk slides](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Science_talk_3%20Jambor_handout.pdf)
 
 
 ## Resources for Charts

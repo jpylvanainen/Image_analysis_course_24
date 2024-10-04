@@ -14,6 +14,7 @@ What you will learn:
 - Adding plug-ins and scripts to QuPath
 - Stardist in QuPath
 
+> [Lecture slides](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day3.1_QuPath_Framework_for_large_image_analysis.pdf)
 
 > [The excellent QuPath documentation](https://qupath.readthedocs.io/en/stable/)
 ## QuPath Dataset:

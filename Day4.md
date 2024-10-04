@@ -41,7 +41,8 @@ By the end of the workshop, you will be able to efficiently use TrackMate for tr
 In this session we are going to use the CellTracksColab platform to investigate tracking results. We will use the tracking data generated in the previous session(s) and see how CellTracksColab helps us to plot large datasets. 
 
 > **[Link to CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab)** <br />
-> **[Download tracking output](https://drive.google.com/drive/folders/1UcIp-HBMeizYnuVLvrC5zqIQbLAZYpxG?usp=sharing)**
+> **[Download tracking output](https://drive.google.com/drive/folders/1UcIp-HBMeizYnuVLvrC5zqIQbLAZYpxG?usp=sharing)** <br />
+> **[Slides](https://drive.google.com/file/d/1P0s1Uy419S7hgleyeX3YkTN33DviiwVO/view?usp=sharing)**
 
 You'll Learn About:
 

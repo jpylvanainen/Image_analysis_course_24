@@ -51,3 +51,51 @@ You'll Learn About:
   - How to generate meaningful plots from your large tracking datasets
 
 By the end of the workshop, you will be able to use CellTracksColab on the provided datasets and your own data.
+
+# Science Talk 3: Helena Jambor: How not to lie with charts
+
+Helena Jambor's resources
+Summary of the talk:  From zero to figure hero: https://osf.io/preprints/osf/xgbyr
+Blog https://helenajamborwrites.netlify.app/
+
+
+## Resources for Charts
+- Severino Ribecca http://www.datavizcatalogue.com/
+- Yan Holz https://python-graph-gallery.com/
+- Ferdio http://datavizproject.com/
+- Literature: Beyond bar and line plots: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128
+
+## Resources for Images 
+- cheatsheets for image prep for figures: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931257/
+- community checklist for image publication: https://www.nature.com/articles/s41592-023-01987-9
+- quantification of image quality in publications: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161
+
+
+## Layout 
+Inspiring BMJ Infografics https://www.bmj.com/infographics
+
+## Color
+- Pick color schemes https://colorbrewer2.org
+- Check if contrast of foreground and background are good https://webaim.org/resources/contrastchecker/
+
+## Graphical Abstracts
+How to for Graphical Abstracts (without Biorender)
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011789
+
+## Text (replace text with images)
+Pictogram resources: 
+- https://fontawesome.com/icons?d=gallery&c=animals USE WITH ATTRIBUTION, , neat: works on dekstop as font!
+- The Nounproject. https://thenounproject.com/ USE WITH ATTRIBUTION Bild-PNG und Vektor-SVG die adaptiert werden kann, mit registrierung.
+- Pictogram collection: https://www.svgrepo.com/
+- https://www.flaticon.com/
+- https://iconduck.com/
+- https://simpleicons.org/
+Biology/Science
+- https://bioicons.com/
+- http://phylopic.org/ --> Icons of all animals and plants etc
+- General science: https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/
+- Science/chemistry icons: [https://reactome.org/icon-lib](https://reactome.org/icon-lib/)
+- [SCIDRAW](https://scidraw.io/) a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY
+Medicine 
+- https://smart.servier.com/
+- https://healthicons.org/

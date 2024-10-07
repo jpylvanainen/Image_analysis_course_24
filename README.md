@@ -24,6 +24,10 @@ Now that the course is done, we would love to hear from you about your experienc
 
 [Link to course poster](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/course_poster/course%20poster-01.png)
 
+## Pre-course material
+To prepare for the course we recommend going through materials for [edX course Image Processing and Analysis for Life Scientists](https://learning.edx.org/course/course-v1:EPFLx+IPA4LSx+3T2018/home). Free but requires login. 
+
+
 ## Speakers
 
 Helena Jambor, University of Applied Sciences of the Grisons, Switzerland <br /> **"How to not lie with charts - better data visualisations for life sciences"**
@@ -31,7 +35,6 @@ Helena Jambor, University of Applied Sciences of the Grisons, Switzerland <br />
 Guillaume Jacquemet, Åbo Akademi University, Turku <br /> **"Deep Learning in Microscopy"**
 
 Pekka Ruusuvuori, University of Turku, Turku <br /> **"Deep Learning in Histopathology"**
-
 
 Junel Solis, Turku BioImaging, Turku <br /> **"Next-generation file formats, version control, and publishing your data"**
 

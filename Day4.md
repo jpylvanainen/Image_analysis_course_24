@@ -57,8 +57,6 @@ By the end of the workshop, you will be able to use CellTracksColab on the provi
 Helena Jambor's resources
 > Summary of the talk:  From zero to figure hero: https://osf.io/preprints/osf/xgbyr <br />
 > Blog https://helenajamborwrites.netlify.app/ <br />
-> [Talk slides](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Science_talk_3%20Jambor_handout.pdf)
-
 
 ## Resources for Charts
 - Severino Ribecca http://www.datavizcatalogue.com/

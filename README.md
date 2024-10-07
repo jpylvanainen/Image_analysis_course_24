@@ -11,6 +11,10 @@ Course is open for all researchers in  Åbo Akademi University and University of
 
 Topics include Basic image analysis using Fiji, Deep learning for microscpy and histopathology, Live cell imaging data analysis, data visualization and open science.
 
+## Feedback 
+
+Now that the course is done, we would love to hear from you about your experience. What was good, what was less good and how we can improve things should we ever decide to do this again. :) <br />
+> [Link to the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeHPciv607W1Qe_BhTEqB_XKRNJapUEBKqO5gYBm85aJgFrHg/viewform?usp=sf_link)
 
 ## Course schedule
 

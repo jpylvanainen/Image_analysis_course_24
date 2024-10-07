@@ -16,8 +16,9 @@ The Image.sc forum for all questions image analysis related [Image.sc forum](htt
 
 > von Chamier, L., Laine, R. F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hernández-Pérez, S., Mattila, P. K., Karinou, E., Holden, S., Solak, A. C., Krull, A., Buchholz, T. O., Jones, M. L., Royer, L. A., Leterrier, C., Shechtman, Y., Jug, F., Heilemann, M., … Henriques, R. (2021). **Democratising deep learning for microscopy with ZeroCostDL4Mic.** Nature communications, 12(1), 2276. https://doi.org/10.1038/s41467-021-22518-0 <br />
 
-# FIJI Plug-ins that came up throughout the course
+# FIJI Plug-ins that used / came up throughout the course
 
+Loci - plugin to help create ground truth data for deep learning (ROI map command) [LOCI plugins](https://imagej.net/orgs/loci) <br />
 Plug-in to measure the distribution of signal throughout a cell [SpatialStatistics](https://imagejdocu.list.lu/plugin/analysis/spatial_statistics_2d_3d/start) <br />
 Plug-in to measure distances [DiAna](https://imagej.net/plugins/distance-analysis)
 
